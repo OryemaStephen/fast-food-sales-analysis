@@ -21,7 +21,8 @@ The data has been carefully reviewed and cleaned to address missing values, ensu
 
 The data was visualized in Power BI to come up with the dashboard below.
 
-![Fast food sales analysis dashboard](
+![Fast food sales analysis dashboard](https://github.com/OryemaStephen/fast-food-sales-analysis/blob/main/Fast-food-sales.png)
+
 ## Insights
 
 1. What is the total sales?
